@@ -1,5 +1,5 @@
 var config = {
-	locale: 'en',
+	locale: 'es',
 
 	port: 9001,
 
