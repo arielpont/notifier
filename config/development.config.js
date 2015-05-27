@@ -26,7 +26,7 @@ var config = {
 			token: 'a_DtAaGmZDE5WR47Bgy5EA',
 			from: {
 				email: 'no-reply@edjargentina.org',
-				name: 'PLATAFORMA | EDJ.AR'
+				name: 'EDJ.AR'
 			}
 		},
 		twilio : {
