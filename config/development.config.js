@@ -23,7 +23,7 @@ var config = {
 
 	transport: {
 		mandrill: {
-			token: 'a_DtAaGmZDE5WR47Bgy5EA',
+			token: 'Zs6ePWZb9FWJZ6QCMkEBQw',
 			from: {
 				email: 'no-reply@edjargentina.org',
 				name: 'EDJ.AR'
