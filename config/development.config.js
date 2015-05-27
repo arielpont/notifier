@@ -23,10 +23,10 @@ var config = {
 
 	transport: {
 		mandrill: {
-			token: 'Zs6ePWZb9FWJZ6QCMkEBQw',
+			token: 'a_DtAaGmZDE5WR47Bgy5EA',
 			from: {
-				email: 'no-reply@democracyos.org',
-				name: 'DemocracyOS'
+				email: 'no-reply@edjargentina.org',
+				name: 'PLATAFORMA | EDJ.AR'
 			}
 		},
 		twilio : {
