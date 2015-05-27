@@ -1,10 +1,10 @@
 {
   "templates.email.greeting": "Hola, USER_NAME",
-  "templates.email.signature": "El equipo de PLATAFORMA EDJ.AR.",
+  "templates.email.signature": "El equipo de PLATAFORMA EDJ.AR",
 
   "templates.welcome-email.subject": "¡Bienvenid@ a EDJ.AR!",
   "templates.welcome-email.body": "Por favor <a href=\"VALIDATE_MAIL_URL\">cliquea aquí</a> para validar tu dirección de correo electrónico.",
-  "templates.welcome-email.ps": "P.D.: si no creaste una cuenta, por favor ignora este correo.",
+  "templates.welcome-email.ps": "P.D.: si no creaste una cuenta, por favor ignorá este correo.",
 
   "templates.forgot-password.subject": "Reestablecer contraseña",
   "templates.forgot-password.body": "Por favor <a href=\"RESET_PASSWORD_URL\">cliquea aquí</a> para reestablecer tu contraseña",
@@ -16,5 +16,5 @@
 
   "templates.law-published.subject": "Nuevo proyeto publicado",
   "templates.law-published.body": "Un nuevo proyeco fue publicado:",
-  "templates.law-published.body2": "Por favor <a href=\"URL\">cliquea aquí</a> para verla."
+  "templates.law-published.body2": "Por favor <a href=\"URL\">cliquea aquí</a> para verlo."
 }
